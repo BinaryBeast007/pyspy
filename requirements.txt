@@ -1,0 +1,7 @@
+psutil
+pyaudio
+wave
+Pillow
+requests
+pycryptodomex
+pywin32
